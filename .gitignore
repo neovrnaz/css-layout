@@ -1,0 +1,11 @@
+### Custom .gitignore
+
+# IntelliJ project files
+
+# IntelliJ project files
+.idea
+*.iml
+
+# MacOS
+.DS_STORE
+node_modules
